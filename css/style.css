@@ -17,4 +17,17 @@ main {
   width: 1194px;
   height: 834px;
 }
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #a8efff;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 8px;
+ 
+
+
+}
 
