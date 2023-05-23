@@ -1,7 +1,7 @@
 /* Diagnostic */
 
 * {
-  outline: 1px dotted darkgray;
+  outline: 1px dotted rgb(12, 12, 12);
 }
 
 body {
@@ -9,6 +9,7 @@ body {
   justify-content: center;
   align-content: center;
   height: 100vh;
+  background: linear-gradient(to bottom right, #00BFFF, #008000);
 }
 
 /* Layout  */
